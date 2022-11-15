@@ -1,0 +1,49 @@
+body {
+    background-image: url("images/dog.png");
+    background-size: 150px;
+    font-family: -apple-system, 'Carter One', cursive;
+    font-weight: bold;
+    text-align: center;
+    color: #99582a;
+    text-shadow: 0 0 2px black;
+}
+
+#counter-box {
+    max-width: 300px;
+    margin: 35px auto;
+    background-color: rgba(255, 228, 196, 0.846);
+    border: solid 3px #99582a;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(255, 228, 196);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    text-shadow: 0 0 2px black;
+}
+
+#increment-btn {
+    background: #99582a;
+}
+
+#save-btn {
+    background: #6c584c;
+}
